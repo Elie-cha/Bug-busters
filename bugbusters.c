@@ -1,4 +1,4 @@
-add the updated part to this code #include <stdio.h>
+#include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
